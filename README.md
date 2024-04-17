@@ -1,6 +1,6 @@
 # RobcoMWn robot base repo
 
-# baserd on linorobot2
+# based on linorobot2
 
 ## Useful Resources:
 
